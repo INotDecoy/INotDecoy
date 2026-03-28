@@ -24,11 +24,16 @@
     <img src="https://skillicons.dev/icons?i=vite,angular,react,html,css,js,bootstrap">
   </kbd>
   <br>
+  <br>
+  <br>
+ 
   <kbd>
     <kbd>Programacion</kbd>
     <br>
     <img src="https://skillicons.dev/icons?i=py,java,nodejs">
   </kbd>
+  <br>
+  <br>
   <br>
   <kbd>
     <kbd>Base de datos</kbd>
