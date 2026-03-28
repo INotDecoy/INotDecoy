@@ -20,11 +20,19 @@
   <kbd>
     <kbd>Front-end</kbd>
     <br>
-    <img src="https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter">
+    <br>
+    <img src="https://skillicons.dev/icons?i=vite,angular,react,html,css,js,bootstrap">
   </kbd>
+  <br>
   <kbd>
     <kbd>Programacion</kbd>
     <br>
-  
+    <img src="ttps://skillicons.dev/icons?i=py,java,nodejs">
+  </kbd>
+  <br>
+  <kbd>
+    <kbd>Base de datos</kbd>
+    <br>
+    <img src="ttps://skillicons.dev/icons?i=postgres,mysql,">
   </kbd>
 </p>
