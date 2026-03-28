@@ -30,6 +30,7 @@
   <kbd>
     <kbd>Programacion</kbd>
     <br>
+    <br>
     <img src="https://skillicons.dev/icons?i=py,java,nodejs">
   </kbd>
   <br>
@@ -37,6 +38,7 @@
   <br>
   <kbd>
     <kbd>Base de datos</kbd>
+    <br>
     <br>
     <img src="https://skillicons.dev/icons?i=postgres,mysql,">
   </kbd>
