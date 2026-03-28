@@ -27,12 +27,12 @@
   <kbd>
     <kbd>Programacion</kbd>
     <br>
-    <img src="ttps://skillicons.dev/icons?i=py,java,nodejs">
+    <img src="https://skillicons.dev/icons?i=py,java,nodejs">
   </kbd>
   <br>
   <kbd>
     <kbd>Base de datos</kbd>
     <br>
-    <img src="ttps://skillicons.dev/icons?i=postgres,mysql,">
+    <img src="https://skillicons.dev/icons?i=postgres,mysql,">
   </kbd>
 </p>
